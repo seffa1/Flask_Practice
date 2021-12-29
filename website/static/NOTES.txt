@@ -1,0 +1,2 @@
+This directoy is used if you want to integrate your own javascript, CSS, images, etc. Things which do not change.
+It would then be loaded in, in the "Base.html", see notes there.
